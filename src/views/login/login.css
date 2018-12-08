@@ -1,0 +1,16 @@
+.login {
+    padding: 10px 30px;
+    height: 100%;
+    position: relative;
+    background: #fff;
+}
+
+.login-head {
+    margin-top: 100px!important;
+}
+
+.login-mode {
+    color: #3371e4;
+    font-size: 14px;
+    line-height: 40px;
+}
